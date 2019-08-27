@@ -1,0 +1,17 @@
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Twilio_SMS.exe.config
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Twilio_SMS.exe
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Twilio_SMS.pdb
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Twilio.dll
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\bin\Debug\Twilio.xml
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\obj\Debug\Twilio_SMS.csprojAssemblyReference.cache
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\obj\Debug\Twilio_SMS.csproj.CoreCompileInputs.cache
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\obj\Debug\Twilio_SMS.csproj.CopyComplete
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\obj\Debug\Twilio_SMS.exe
+C:\Users\Maria Camila Camacho\Documents\GitHub\Prueba\APISendGrid\Twilio_SMS\obj\Debug\Twilio_SMS.pdb

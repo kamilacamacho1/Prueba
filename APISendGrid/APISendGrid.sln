@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APISendGrid", "APISendGrid\APISendGrid.csproj", "{55AE031D-320E-48A9-BE6B-3B8CC57360A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR", "SignalR\SignalR.csproj", "{43CEB8AE-47AA-4F67-B692-1DF5B3C2595C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AE031D-320E-48A9-BE6B-3B8CC57360A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AE031D-320E-48A9-BE6B-3B8CC57360A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AE031D-320E-48A9-BE6B-3B8CC57360A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AE031D-320E-48A9-BE6B-3B8CC57360A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CEB8AE-47AA-4F67-B692-1DF5B3C2595C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CEB8AE-47AA-4F67-B692-1DF5B3C2595C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CEB8AE-47AA-4F67-B692-1DF5B3C2595C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CEB8AE-47AA-4F67-B692-1DF5B3C2595C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC020997-4F78-479A-98E6-3F1B98B7F915}
+	EndGlobalSection
+EndGlobal
